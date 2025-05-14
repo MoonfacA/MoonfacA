@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @MoonfacA
 - 👀 I’m interested in ... JavaScript, Python and Php
-- 🌱 I’m currently learning ...JavaScript, Python and Php
+
+- 🌱 I’m currently learning ...JavaScript, Python C# and Php
+
 - 💞️ I’m looking to collaborate on ...any project 
-- 📫 How to reach me ...enail
-- 😄 Pronouns: ...he
+
+- 📫 Reach Me
+lubisijabu6@gmail.com
+
 - ⚡ Fun fact: ...freelancer
 
 <!---
